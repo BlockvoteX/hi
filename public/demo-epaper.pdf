@@ -9,8 +9,8 @@ endobj
 2 0 obj
 <<
 /Type /Pages
-/Kids [3 0 R]
-/Count 1
+/Kids [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R]
+/Count 5
 >>
 endobj
 
@@ -19,10 +19,11 @@ endobj
 /Type /Page
 /Parent 2 0 R
 /MediaBox [0 0 612 792]
-/Contents 4 0 R
+/Contents 8 0 R
 /Resources <<
 /Font <<
-/F1 5 0 R
+/F1 9 0 R
+/F2 10 0 R
 >>
 >>
 >>
@@ -30,27 +31,111 @@ endobj
 
 4 0 obj
 <<
-/Length 200
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 11 0 R
+/Resources <<
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+>>
+>>
+>>
+endobj
+
+5 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 12 0 R
+/Resources <<
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+>>
+>>
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 13 0 R
+/Resources <<
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+>>
+>>
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 14 0 R
+/Resources <<
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+>>
+>>
+>>
+endobj
+
+8 0 obj
+<<
+/Length 400
 >>
 stream
 BT
 /F1 24 Tf
-100 700 Td
-(Flash India News - Demo E-paper) Tj
-0 -50 Td
-/F1 16 Tf
+50 750 Td
+(Flash India News - Page 1) Tj
+0 -30 Td
+/F2 16 Tf
 (Date: Today) Tj
+0 -40 Td
+/F1 18 Tf
+(Main Headlines) Tj
 0 -30 Td
-(This is a demo PDF file.) Tj
-0 -30 Td
-(Place your actual e-paper PDFs in the public folder) Tj
-0 -30 Td
-(with format: DD-MM-YY.pdf) Tj
+/F2 12 Tf
+(This is the first page of Flash India News e-paper.) Tj
+0 -20 Td
+(Breaking news and important updates appear here.) Tj
+0 -20 Td
+(Local and national news coverage.) Tj
+0 -40 Td
+/F1 14 Tf
+(Sports Section) Tj
+0 -20 Td
+/F2 12 Tf
+(Latest sports updates and match results.) Tj
+0 -40 Td
+/F1 14 Tf
+(Weather Update) Tj
+0 -20 Td
+/F2 12 Tf
+(Today's weather forecast and conditions.) Tj
 ET
 endstream
 endobj
 
-5 0 obj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+10 0 obj
 <<
 /Type /Font
 /Subtype /Type1
@@ -58,19 +143,182 @@ endobj
 >>
 endobj
 
+11 0 obj
+<<
+/Length 350
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Flash India News - Page 2) Tj
+0 -30 Td
+/F2 16 Tf
+(Business & Economy) Tj
+0 -40 Td
+/F1 18 Tf
+(Market Updates) Tj
+0 -30 Td
+/F2 12 Tf
+(Stock market performance and analysis.) Tj
+0 -20 Td
+(Economic indicators and trends.) Tj
+0 -20 Td
+(Business news from various sectors.) Tj
+0 -40 Td
+/F1 14 Tf
+(Technology News) Tj
+0 -20 Td
+/F2 12 Tf
+(Latest developments in technology sector.) Tj
+0 -40 Td
+/F1 14 Tf
+(International News) Tj
+0 -20 Td
+/F2 12 Tf
+(Global events and international relations.) Tj
+ET
+endstream
+endobj
+
+12 0 obj
+<<
+/Length 320
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Flash India News - Page 3) Tj
+0 -30 Td
+/F2 16 Tf
+(Entertainment & Culture) Tj
+0 -40 Td
+/F1 18 Tf
+(Movie Reviews) Tj
+0 -30 Td
+/F2 12 Tf
+(Latest movie releases and reviews.) Tj
+0 -20 Td
+(Celebrity news and interviews.) Tj
+0 -20 Td
+(Cultural events and festivals.) Tj
+0 -40 Td
+/F1 14 Tf
+(Music & Arts) Tj
+0 -20 Td
+/F2 12 Tf
+(Music industry updates and concerts.) Tj
+0 -40 Td
+/F1 14 Tf
+(Literature) Tj
+0 -20 Td
+/F2 12 Tf
+(Book reviews and literary events.) Tj
+ET
+endstream
+endobj
+
+13 0 obj
+<<
+/Length 340
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Flash India News - Page 4) Tj
+0 -30 Td
+/F2 16 Tf
+(Health & Lifestyle) Tj
+0 -40 Td
+/F1 18 Tf
+(Health Tips) Tj
+0 -30 Td
+/F2 12 Tf
+(Daily health tips and wellness advice.) Tj
+0 -20 Td
+(Medical breakthroughs and research.) Tj
+0 -20 Td
+(Fitness and nutrition guidance.) Tj
+0 -40 Td
+/F1 14 Tf
+(Lifestyle) Tj
+0 -20 Td
+/F2 12 Tf
+(Fashion trends and lifestyle tips.) Tj
+0 -40 Td
+/F1 14 Tf
+(Food & Recipes) Tj
+0 -20 Td
+/F2 12 Tf
+(Traditional recipes and cooking tips.) Tj
+ET
+endstream
+endobj
+
+14 0 obj
+<<
+/Length 360
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Flash India News - Page 5) Tj
+0 -30 Td
+/F2 16 Tf
+(Opinion & Editorial) Tj
+0 -40 Td
+/F1 18 Tf
+(Editorial) Tj
+0 -30 Td
+/F2 12 Tf
+(Editor's perspective on current issues.) Tj
+0 -20 Td
+(Analysis of political and social matters.) Tj
+0 -20 Td
+(Community concerns and solutions.) Tj
+0 -40 Td
+/F1 14 Tf
+(Letters to Editor) Tj
+0 -20 Td
+/F2 12 Tf
+(Reader opinions and feedback.) Tj
+0 -40 Td
+/F1 14 Tf
+(Classified Ads) Tj
+0 -20 Td
+/F2 12 Tf
+(Job opportunities and announcements.) Tj
+0 -20 Td
+(Real estate and business listings.) Tj
+ET
+endstream
+endobj
+
 xref
-0 6
+0 15
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000115 00000 n 
-0000000274 00000 n 
-0000000526 00000 n 
+0000000130 00000 n 
+0000000289 00000 n 
+0000000448 00000 n 
+0000000607 00000 n 
+0000000766 00000 n 
+0000000925 00000 n 
+0000001377 00000 n 
+0000001444 00000 n 
+0000001505 00000 n 
+0000001907 00000 n 
+0000002279 00000 n 
+0000002671 00000 n 
 trailer
 <<
-/Size 6
+/Size 15
 /Root 1 0 R
 >>
 startxref
-623
+3083
 %%EOF

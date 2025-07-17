@@ -17,4 +17,7 @@ export default defineConfig({
       external: [],
     },
   },
+  define: {
+    global: 'globalThis',
+  },
 });
