@@ -1,9 +1,9 @@
 import React from 'react';
-import EpaperMain from './components/EpaperMain';
+import EpaperViewer from './components/EpaperViewer';
 
 function App() {
   return (
-    <EpaperMain />
+    <EpaperViewer />
   );
 }
 
