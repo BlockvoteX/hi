@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
+import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.min.js?url';
 import 'react-pdf/dist/Page/AnnotationLayer.css';
 import 'react-pdf/dist/Page/TextLayer.css';
 import { ChevronRight, Scissors, Archive, Home, Info, Phone, Shield, Facebook, Twitter, Instagram, MessageCircle } from 'lucide-react';
 
-// Set up PDF.js worker
-pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.js`;
+// Set up PDF.js worker with local import
+pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 const EpaperViewer = () => {
   const [currentPage, setCurrentPage] = useState(1);
