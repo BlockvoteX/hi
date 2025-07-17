@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
-import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.min.js?url';
+import pdfjsWorker from 'react-pdf/build/pdf.worker.min.js?url';
 import { ChevronLeft, ChevronRight, Download, Scissors, Archive, Home, Info, Phone, Shield } from 'lucide-react';
 
 // Set up PDF.js worker
