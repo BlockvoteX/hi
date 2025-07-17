@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+/* React-PDF styles */
+.react-pdf__Page {
+  background: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.react-pdf__Page__canvas {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Custom fonts for Telugu text */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap');
 
